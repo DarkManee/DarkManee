@@ -26,7 +26,7 @@
   Github Stats
   <p align="center">  
  </p>
-<a href="https://github.com/frosty171/">
+<a href="https://github.com/DarkManee/">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkManee&layout=compact&theme=react&hide_border=true&border_radius=25"
